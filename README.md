@@ -1,6 +1,6 @@
 # Pax Vision
 
-Pax Vision is a reaction system founded under the idea of minimizing damage done through public shooting by detecting guns through Computer Vision. Utilizing Microsoft's Custom Vision API, Pax Vision is an approach a sensible alarm system developed against the recently rising problem regarding guns.
+Pax Vision is a reaction system founded under the idea of minimizing damage done through public shooting by detecting guns through Computer Vision. Utilizing Microsoft's Custom Vision API, Pax Vision is an approach to a sensible alarm system developed against the recently rising problem regarding guns.
 
 ## Getting Started
 
