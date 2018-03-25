@@ -27,6 +27,5 @@ Mariam Gadzhimagomedova - (https://github.com/mgG809)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
 * Idea founded and developed in DefHacks2018@Seattle
 
