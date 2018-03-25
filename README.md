@@ -13,7 +13,7 @@ We are envisioning Pax Vision to be implemented in public and school areas' alar
 ## Built With
 
 * [Jupyter Notebook] - Used for entire development
-* [Custom Vision API - Used for Custom Vision
+* [Microsoft Custom Vision API] - Used for Object Identification
 * [OpenCV] - Used for main video feed input
 
 ## Authors
